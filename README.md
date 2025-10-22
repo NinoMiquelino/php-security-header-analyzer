@@ -49,6 +49,7 @@ git clone https://github.com/ninomiquelino/php-security-header-analyzer.git
 cd php-security-header-analyzer
 chmod +x security_header_analyzer.php
 ```
+---
 
 ## 🚀 Uso
 
@@ -69,11 +70,11 @@ Exemplo da execução no terminal 👇
 ## 📁 Estrutura do Projeto
 php-security-header-analyzer/
 ├── .gitignore
-├── security_header_analyzer.php    # Script principal CLI
-├── README.md                       # Documentação detalhada
-├── LICENSE                         # Licença MIT
+├── security_header_analyzer.php
+├── README.md                   
+├── LICENSE                        
 └── docs/
-    └── demo-terminal-output.png    # Captura de tela da execução
+    └── demo-terminal-output.png
 
 ---
 
