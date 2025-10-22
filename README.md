@@ -48,6 +48,7 @@ Clone o repositório e conceda permissão de execução:
 git clone https://github.com/ninomiquelino/php-security-header-analyzer.git
 cd php-security-header-analyzer
 chmod +x security_header_analyzer.php
+```
 
 ## 🚀 Uso
 
