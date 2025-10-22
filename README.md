@@ -11,6 +11,13 @@
 ---
 
 # 🔒 Ferramenta CLI PHP para Análise de Cabeçalhos de Segurança HTTP
+![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Status Stable](https://img.shields.io/badge/Status-Stable-success)
+![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
+![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/php-security-header-analyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/php-security-header-analyzer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/php-security-header-analyzer)
 
 Uma ferramenta de linha de comando (CLI) em **PHP** que analisa os principais **cabeçalhos de segurança HTTP** de um site e exibe um relatório colorido de conformidade.  
 Ideal para **desenvolvedores**, **analistas de segurança** e **equipes DevSecOps** que desejam validar políticas como **CSP**, **HSTS** e **X-Frame-Options**.
