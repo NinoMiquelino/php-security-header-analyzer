@@ -51,7 +51,7 @@ chmod +x security_header_analyzer.php
 ```
 ---
 
-## 🚀 Uso
+## 📦 Como usar
 
 Execute o script informando a URL que deseja analisar:
 
@@ -67,14 +67,16 @@ Exemplo da execução no terminal 👇
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🧩 Estrutura do Projeto
+```
 php-security-header-analyzer/
-├── .gitignore
+📁 docs/
+│   └── demo-terminal-output.png
 ├── security_header_analyzer.php
-├── README.md                   
-├── LICENSE                        
-└── docs/
-    └── demo-terminal-output.png
+├── README.md
+├── .gitignore
+└── LICENSE
+```
 
 ---
 
