@@ -11,6 +11,7 @@
 ---
 
 # 🔒 Ferramenta CLI PHP para Análise de Cabeçalhos de Segurança HTTP
+
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status Stable](https://img.shields.io/badge/Status-Stable-success)
